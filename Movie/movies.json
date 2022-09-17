@@ -1,0 +1,14 @@
+[
+  {
+    "movieId": 1,
+    "movieName": "Inception",
+    "director": "Christopher Nolan",
+    "release_date": "2010-07-16"
+  },
+  {
+    "movieId": 2,
+    "movieName": "The Irishman",
+    "director": "Martin Scorsese",
+    "release_date": "2019-07-27"
+  }
+]
